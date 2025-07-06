@@ -1,1 +1,1 @@
-# krishna-projects-2025
+# krishna-python-2025
